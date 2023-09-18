@@ -1,0 +1,19 @@
+.info_section {
+    margin-left: 20px;
+}
+.info_section img {
+    width: 90%; 
+    height: 50%; 
+    border-radius: 20px; 
+    margin-top: 2rem; 
+}
+.info {
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    font-family: var(--tipografia);
+    font-weight: 300;
+    color: var(--white);
+}
+#info_2 {
+    color: var(--blueLight)
+}

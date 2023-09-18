@@ -1,0 +1,24 @@
+@import './home.css';
+@import './header.css';
+@import './informacion.css';
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;1,400&family=Roboto+Mono:ital,wght@1,600&display=swap');
+:root {
+    --white : #FFFFFF;
+    --blue : #0C1073;
+    --blueLight : #5ACAE2;
+    --tipografia: 'Poppins', sans-serif;
+    --tipografiaButton : 'Roboto Mono', monospace;
+}
+body {
+    background-color: #091B2D;
+}
+
+a {
+    text-decoration: none;
+    outline: none;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}

@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name": "Giuliana Olmos",
+        "profession" : "Full Stack Developer",
+        "photo" : "https://avatars.githubusercontent.com/u/106564330?v=4",
+        "about_me" : "Colocar información mia AQUI",
+        "skills": [
+        "Javascript",
+        "NodeJS",
+        "Sequelize",
+        "Express",
+        "Html",
+        "Css",
+        "MySQL"
+        ]
+    }
+]
